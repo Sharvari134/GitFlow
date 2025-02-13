@@ -18,54 +18,54 @@
 9. [References](#references)
 
 
-## Introduction**
+## Introduction
 GitFlow is a branching model for Git that helps teams manage their software development process. It defines a structured way to handle features, releases, and bug fixes, making collaboration easier.
 
-## Why GitFlow?**
+## Why GitFlow?
 In large projects, multiple developers work on different features simultaneously. GitFlow helps:
 - Keep the code organized
 - Ensure a smooth release process
 - Separate development and production code
 - Allow parallel feature development
 
-## GitFlow Workflow**
+## GitFlow Workflow
 GitFlow follows a structured branching strategy:
-- **Main Branches:** 
+- Main Branches:
   - `main` (or `master`): Contains stable, production-ready code.
   - `develop`: Includes the latest development changes before merging into `main`.
-- **Supporting Branches:**
+- Supporting Branches:
   - `feature` branches: Used to develop new features.
   - `release` branches: Prepares code for production.
   - `hotfix` branches: Fixes urgent bugs in production.
   
-### **GitFlow Diagram:**
+### GitFlow Diagram:
 
 <img src="img/git.jpg" width="700">
 
-## Key Features of GitFlow**
+## Key Features of GitFlow
 - Well-organized branching strategy
 - Supports parallel feature development
 - Clear separation of development and production
 - Helps in version control and releases
 - Provides a structured workflow for teams
 
-## Advantages of GitFlow**
+## Advantages of GitFlow
 ✅ Makes collaboration easier in teams  
 ✅ Provides a clear process for managing code  
 ✅ Reduces merge conflicts by keeping separate branches  
 ✅ Ensures production stability with structured releases and bug fixes  
 ✅ Works well for large-scale projects
 
-## Disadvantages of GitFlow**
+## Disadvantages of GitFlow
 ❌ Can be complex for small projects  
 ❌ Requires discipline to follow correctly  
 ❌ More branches can make merging tedious  
 ❌ Not ideal for rapid deployment workflows
 
-## Conclusion**
+## Conclusion
 GitFlow is a powerful workflow for managing Git projects, especially in large teams. It provides structure, stability, and clarity in software development. However, for smaller projects or fast-moving teams, simpler branching models like GitHub Flow may be more suitable.
 
-## Contact Information**
+## Contact Information
 
 | Name| Email Address      |
 |-----|--------------------------|
