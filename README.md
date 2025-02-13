@@ -72,7 +72,7 @@ GitFlow is a powerful workflow for managing Git projects, especially in large te
 |Sharvari Khamkar |  sharvari.khamkar@mygurukulam.co|
 
 
-## References**
+## References
 
 |Link |	Description|
 |------------------------------------|------------------------------------|
